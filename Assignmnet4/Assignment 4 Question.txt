@@ -1,9 +1,0 @@
-Write a report on your binary classifier trained and tested using your private data collected by your mobile-phone cameras/conventional cameras/ laptop web cameras. Report should be submitted in PDF format prepared by Latex.
-
-Report should include as many analysis as possible about the results, procedure of tuning hyper-parameters to get better results.
-
-In order to avoid same image classes, groups are requested to entry their image class in the following sheet:
-https://docs.google.com/spreadsheets/d/1Ul_UZ306WAcCpnY2pwcs0C1JLrV-iNkuKSWGX1GXAjQ/edit?usp=sharing
-Each group needs to collect at least 400 images per class.
-
-Group need to build, train and test both a fully connected neural network-based binary classifier and convolutional neural network based binary classifier.
