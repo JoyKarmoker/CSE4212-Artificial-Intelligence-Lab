@@ -1,0 +1,9 @@
+1. Build a CNN which exactly looks like VGG16. Transfer weights of pre-trained VGG16 to the newly built VGG16.
+
+2. Build a CNN which will look like VGG16, but will not be exactly VGG16 by fulfilling the following conditions
+Conditions:
+Two architecture from two different students cannot be the same..... By chance if it happens, both students will get -10.
+Different students should have different input shape and output shape
+Different students should have different number of dense layers and number of neurons in dense layers
+Different student should have different number convolution layers in different block
+Different students should have different pooling layers or down-sampling techniques
