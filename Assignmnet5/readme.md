@@ -16,7 +16,7 @@ The binary classification task involves distinguishing between peace and thumbs-
 
 The code for training the model, performing transfer learning, and evaluating the model is provided in the `Group6_Assignment5` file.
 
-### Transfer Learning Models
+#### Transfer Learning Models
 
 The project uses two popular pre-trained models for transfer learning: VGG16 and ResNet-50. Both models are fine-tuned on the private dataset to leverage their pre-trained weights and improve classification performance.
 
@@ -24,7 +24,7 @@ The project uses two popular pre-trained models for transfer learning: VGG16 and
 
 The report detailing the experimental setup, methodology, results, and analysis can be found in the `report` file.
 
-### Key Highlights
+#### Key Highlights
 
 - **Binary Classification:** The report delves into the binary classification task of distinguishing peace signs from thumbs-up signs and explores the significance of this task in sign language applications.
 
