@@ -8,7 +8,7 @@ This repository contains the code, data, and report for the assignment on the ef
 
 The dataset used for this project is located in the `thumbsup_peace` directory. It consists of labeled images for binary classification tasks, specifically distinguishing between images of peace signs and thumbs-up signs.
 
-### Binary Classification and Sign Language
+#### Binary Classification and Sign Language
 
 The binary classification task involves distinguishing between peace and thumbs-up signs, two widely recognized hand gestures in sign language. This project explores the application of transfer learning techniques to improve the model's ability to recognize these gestures.
 
